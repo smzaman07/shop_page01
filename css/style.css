@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link.btn{
+	color: #007bff;
+}
+.navbar-light .navbar-nav .nav-link.btn:hover{
+	background: transparent;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2) !important;
+}
+.heading h2{
+	    font-weight: 700;
+}
+.breadcrumb-item{}
+.breadcrumb-item a{
+    text-decoration: none;
+    color: #333;
+    font-weight: 400;
+}
+.product-thumbnill{
+    overflow: hidden;
+}
+.product-thumbnill img{
+    transition: all 0.3s ease;
+}
+.product-thumbnill img:hover{
+    transform: scale(1.1);
+}
+.product-details{}
+.product-details h4{
+    font-size: 20px;
+    color: #5f5b5b;
+}
+.product-details span{
+    font-size: 14px;
+    color: #5f5b5b;
+}
+.product-details strong{
+    color: #5f5b5b;
+    display: block;
+    padding: 15px 0px;
+}
+.product-details p{
+    color: #5f5b5b;
+}
+.ratting{}
+.ratting i{
+    color: #007bff;
+    padding: 15px 0px;
+}
+.navbar-light .navbar-nav .nav-link.btn{
+	color: #007bff;
+}
+.navbar-light .navbar-nav .nav-link.btn:hover{
+	background: transparent;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2) !important;
+}
+.product-details{}
+.product-details h4{
+    font-size: 20px;
+    color: #5f5b5b;
+}
+.product-details span{
+    font-size: 14px;
+    color: #5f5b5b;
+}
+.product-details strong{
+    color: #5f5b5b;
+    display: block;
+    padding: 15px 0px;
+}
+.product-details p{
+    color: #5f5b5b;
+}
+.ratting{}
+.ratting i{
+    color: #007bff;
+    padding: 15px 0px;
+}
+.latest-section{}
+.collection h2{
+	font-size: 30px;
+	font-weight: 600;
+	text-align: center;
+	color: #333;
+	padding-bottom: 40px;
+}
+.collection-details{
+    text-align: center;
+    overflow: hidden;
+}
+.collection-details img{
+	transition: all 0.3s ease;
+}
+.collection-details img:hover{
+	 transform: scale(1.1);
+}
+.collection-details h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: #5f5b5b;
+    padding-top: 20px;
+}
+.collection-details strong{
+    display: block;
+    color: #5f5b5b;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.collection-details button{}
+.color-primary{
+	background-color: #1266f1;
+}
+.about {
+    margin: 15px 0px;
+}
+.about p {
+    color: #fff;
+    font-weight: 600;
+}
+.about .fb-ic,.about .tw-ic,.about .ig-ic{
+    color: #fff;
+    padding: 0px 10px;
+}
+
+.about .fb-ic:hover,.about .tw-ic:hover,.about .ig-ic:hover{
+	color: #fff;
+	cursor: pointer;
+}
+footer{
+	background-color: #2e2e2e;
+}
+.footer-left{}
+.footer-left h3{
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #fff;
+}
+.footer-left span{
+    background-color: #1266f1;
+    width: 60px;
+    height: 1px;
+    display: block;
+    margin-bottom: 20px;
+}
+.footer-left ul{}
+.footer-left ul li{
+    color: #fff;
+    line-height: 2;
+    font-size: 15px;
+}
+.footer-end{
+	background-color: rgba(0,0,0,.2);
+    color: #cecece;
+    font-size: 14px;
+    padding: 15px 0px;
+    text-align: center;
+}
+.footer-end p{
+	margin-bottom: 0;
+}
